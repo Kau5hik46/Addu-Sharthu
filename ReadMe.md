@@ -59,19 +59,19 @@ Each card has a value as shown in the table below.
 -------------------------------------------------
 
 *************************
-* Card	Normal	Trump	*
+* Card:	Normal|	Trump	*
 *************************
-* Ace	11	11	*
+* Ace:	11|	11	*
 *************************
-* King	03	03	*
+* King:	03|	03	*
 *************************
-* Queen	02	02	*
+* Queen:02|	02	*
 *************************
-* Jack	01	20	*
+* Jack:	01|	20	*
 *************************
-*  10	10	10	*
+*  10:	10|	10	*
 *************************
-*   9	00	14	*
+*   9:	00|	14	*
 *************************
 
 -> The last round of the game gives out 5 additional points to the winner of that round.
