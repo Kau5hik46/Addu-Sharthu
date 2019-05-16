@@ -84,6 +84,7 @@ Each card has a value as shown in the table below.
 
 
 #Support
+--------
 
 Please help to improve this project either by 
 1) Suggesting improvements to the Code
