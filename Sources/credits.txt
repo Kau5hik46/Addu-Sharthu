@@ -1,0 +1,21 @@
+____________________________________________________________________________________________________
+Made and Developed by: K@u5h!k46
+
+#Current Version: 1.0.1
+
+Version Details:
+
+This is basic implementation of the game.
+This doesn't have the betting option yet.
+This version doesn't have input sanitisation.
+Please help me find more bugs and any suggestion towards improving the code is highly appreciated.
+_____________________________________________________________________________________________________
+
+#Support
+
+Please help to improve this project either by
+1) Improving the Code
+2) Fixing Bugs
+3) Reporting bugs
+
+PLEASE CONSIDER DONATING $1 FOR THE DEVELOPMENT OF THIS PROJECT. EVERY DOLLAR COUNTS.
