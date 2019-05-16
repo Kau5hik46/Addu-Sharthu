@@ -1,9 +1,11 @@
 #This is the ReadMe file of the game - Trump it
 ---------------------------------------------------
 ____________________________________________________________________________________________________
-Made and Developed by: K@u5h!k46
+# Made and Developed by: K@u5h!k46
 
-#Current Version: 1.0.1
+# Languages used: Python 3
+
+# Current Version: 1.0.1
 
 Version Details:
 
