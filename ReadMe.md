@@ -1,4 +1,4 @@
-#This is the ReadMe file of the game - Addu-Sharthu
+#This is the ReadMe file of the game - Trump it
 ---------------------------------------------------
 ____________________________________________________________________________________________________
 Made and Developed by: K@u5h!k46
@@ -21,7 +21,7 @@ ________________________________________________________________________________
 -> Firstly three cards at a time are distributed to all the players starting from the player on the right of the dealer. Call this play-wise.
 -> Players look at their own cards and can declare the trump. 
 -> First chance to declare the trump is given to the dealer and continues clock-wise till a trump is declared.
--> If no one's confident enough to declare the trump, the next 3 cards are dealt in play-wise fashion.
+-> If no one's confident enough to declare the trump, the next set of cards are dealt in play-wise fashion.
 -> Then again, trump is to be declared.
 -> Now players start playing in the play-wise.
 -> The person to play needs to drop a card. The suit he plays is "Base suit" for that round, and that suit must be maintained all the round unless:
@@ -59,12 +59,15 @@ Jack > 9 > Ace > King > Queen > 10
 *.  9  *   00   *  14   *
 *************************
 
+-> The last round of the game gives out 5 additional points to the winner of that round.
+-> Hence the total points per game are 146.
+-> The trump declaring team requires 100 or more points to win.
+-> The winner of the game is decided when the team that declared the trump crosses 100 points or when the other team crosses 46 points. In either case, the winning team makes sure that the other team cannot win.
 
 #Support
 
 Please help to improve this project either by 
-1) Improving the Code
-2) Fixing Bugs
-3) Reporting bugs
-
-PLEASE CONSIDER DONATING $1 FOR THE DEVELOPMENT OF THIS PROJECT. EVERY DOLLAR COUNTS.
+1) Suggesting improvements to the Code
+2) Reporting bugs 
+3) Fixing Bugs
+4) Joining the development team
