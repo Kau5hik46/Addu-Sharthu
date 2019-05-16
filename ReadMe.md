@@ -17,7 +17,6 @@ ________________________________________________________________________________
 -------------
 
 -> This completely works on the principle of hierarchy.
-
 -> The card deck consists of cards of all suits but from 9 to Ace in increasing order.
 -> Firstly three cards at a time are distributed to all the players starting from the player on the right of the dealer. Call this play-wise.
 -> Players look at their own cards and can declare the trump. 
