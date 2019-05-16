@@ -55,7 +55,8 @@ Trump Suit Hierarchy:
 Jack > 9 > Ace > King > Queen > 10
 
 
--> Each card has a value as shown in the table below.
+Each card has a value as shown in the table below.
+-------------------------------------------------
 
 *************************
 * Card * Normal * Trump *
@@ -74,9 +75,13 @@ Jack > 9 > Ace > King > Queen > 10
 *************************
 
 -> The last round of the game gives out 5 additional points to the winner of that round.
+
 -> Hence the total points per game are 146.
+
 -> The trump declaring team requires 100 or more points to win.
+
 -> The winner of the game is decided when the team that declared the trump crosses 100 points or when the other team crosses 46 points. In either case, the winning team makes sure that the other team cannot win.
+
 
 #Support
 
